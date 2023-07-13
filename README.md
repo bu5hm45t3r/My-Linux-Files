@@ -1,2 +1,2 @@
-# Linux Dot Files
-A Wanderer
+# My Linux Dot Files
+Personal files but you can use :-)
