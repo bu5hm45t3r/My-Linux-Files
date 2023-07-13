@@ -12,7 +12,7 @@
 
 test -s ~/.alias && . ~/.alias || true
 #PS1="\d👉\t⭐\w 😍>"
-PS1="\e[1;102m\e[1;97m\d>\A>\w>\$\e[0m"
+PS1="\e[1;109m\e[1;35m\d>\A>\w>\$\e[0m"
 #xterm-color|*-256color) color_prompt=yes;;
 #xterm-color|*-256color|xterm-kitty) color_prompt=yes;;
 
@@ -35,5 +35,11 @@ alias ..="cd.."
 alias ~="cd ~"
 alias c="clear"
 alias e="exit" 
+alias mkd="mkdir"
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
+
+echo "Welcome Udayy"
+
+# Apps to launch at bash or terminal launch
+colorscript random
