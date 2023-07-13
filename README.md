@@ -1,2 +1,2 @@
-# My Linux Dot Files
+# My Linux Files
 Personal files but you can use :-)
